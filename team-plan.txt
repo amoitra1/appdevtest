@@ -1,0 +1,25 @@
+Chang
+Database - Supabase <-- research
+
+Jude
+
+- sign up/log in screen and user input boxes
+
+Gautam
+- General layout for login
+
+Charlie
+
+
+
+Objectives for the app
+
+1. login screen <- Coding 
+    - login button
+    - sign up button
+
+2. Database - Supabase <-- research
+
+3. Figma
+
+
